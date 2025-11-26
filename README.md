@@ -82,7 +82,7 @@ Este cliente se comunica com os microsserviços através de endpoints REST:
 
 Trabalho desenvolvido por:
 
- **Layse Gabrielly** 
+ *Layse Gabrielly*
 
 ---
 
